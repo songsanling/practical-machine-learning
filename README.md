@@ -20,16 +20,5 @@ The goal of the project is to predict the manner in which they did the exercise.
 
 Create a report describing how to build the model, how to use cross validation, what the expected out of sample error is, and why make the choices. Then use the prediction model to predict 20 different test cases.
 
-The submission should consist of a link to (this) Github repo with the R markdown and compiled HTML file describing the analysis. Please constrain the text of the writeup to < 2000 words and the number of figures to be less than 5. It will make it easier for the graders to submit a repo with a gh-pages branch so the HTML page can be viewed online.
-
-Machine Learning Model
-
-Tool: XGBoost, an implementation of tree-based extreme gradient boosting algorithm. A very fast and accurate method to do cross validation, fitting and predicting.
-
-HTML report page (gh-pages)
-
+The submission should consist of a link to (this) Github repo with the R markdown. 
 Please open this GitHub link.
-
-The HTML file is in the gh-pages branch.
-The R markdown file (Rmd) is in the master branch.
-
